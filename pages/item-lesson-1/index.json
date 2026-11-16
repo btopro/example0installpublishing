@@ -1,0 +1,22 @@
+{
+  "id": "item-lesson-1",
+  "indent": 0,
+  "location": "pages/item-lesson-1/index.json",
+  "slug": "lesson-1",
+  "order": 1,
+  "parent": null,
+  "title": "Lesson 1: Finding Your Way Around HAX",
+  "description": "",
+  "metadata": {
+    "published": true,
+    "hideInMenu": false,
+    "tags": [
+      "lesson",
+      "overview"
+    ],
+    "created": 1794854204,
+    "updated": 1794854204,
+    "files": []
+  },
+  "content": "<h2 data-style-guide=\"headline\" data-design-treatment=\"vert\" data-primary=\"8\" data-padding=\"xs\" data-border-radius=\"xs\">Lesson 1 Overview</h2><p>HAX sites look like ordinary websites until you sign in. Then a bar at the top gives you tools to edit pages, add pages, and change the whole site. This lesson walks through those tools.</p><h3 data-style-guide=\"sectionDivider\" data-design-treatment=\"horz-md\" data-primary=\"2\" data-padding=\"xs\" data-instructional-action=\"read\">In this lesson</h3><ul data-style-guide=\"readingRequired\" data-design-treatment=\"reading-required\"><li><a href=\"lesson-1-introduction\">Reading a HAX Site</a></li><li><a href=\"lesson-1-content\">Editing a Page</a></li><li><a href=\"lesson-1-conclusion\">Check Your Understanding</a></li></ul>"
+}

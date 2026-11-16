@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-lesson-1-conclusion</id>
+<indent>1</indent>
+<location>pages/item-lesson-1-conclusion/index.xml</location>
+<slug>lesson-1-conclusion</slug>
+<order>4</order>
+<parent>item-lesson-1</parent>
+<title>Check Your Understanding</title>
+<description></description>
+<metadata>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<tags>
+<item>conclusion</item>
+<item>summary</item>
+</tags>
+<created>1794854204</created>
+<updated>1794854204</updated>
+<files>
+</files>
+</metadata>
+<content><![CDATA[<p>Two quick questions to make sure the big ideas stuck. They aren’t graded.</p><multiple-choice question="Where do you add a new image or video to a page?" single-option="" randomize=""><input type="checkbox" value="Blocks, or type / on an empty line" data-correct="true"><input type="checkbox" value="Site Settings"><input type="checkbox" value="The site menu"></multiple-choice><self-check title="Saving your work" accent-color="primary"><p slot="question">You changed three paragraphs and added a table. What do you do before going to another page?</p><p>Select <strong>Save</strong> in the top bar. Unsaved edits are lost if you leave and choose to discard them.</p></self-check><h3 data-style-guide="sectionDivider" data-design-treatment="horz-md" data-primary="2" data-padding="xs" data-instructional-action="reflect">Reflect</h3><p>What’s one page you’d like to build first? Add it now with <strong>Add page</strong>, then edit it using what you just learned.</p><p data-style-guide="calloutSuccess" data-accent="10" data-border-radius="md" data-padding="s" data-box-shadow="sm"><strong>You finished the orientation.</strong> You’re ready to build your own course.</p>]]></content>
+</item>

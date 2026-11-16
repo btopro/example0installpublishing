@@ -1,0 +1,192 @@
+{
+  "id": "d8db9b39-6d2d-4e2b-bc54-3af0dc5c24c5",
+  "title": "example0installpublishing",
+  "author": "",
+  "description": "skeleton from-skeleton",
+  "license": "by-sa",
+  "metadata": {
+    "author": {
+      "image": "https://avatars.githubusercontent.com/u/329735?v=4",
+      "name": "Bryan Ollendyke",
+      "email": "bto108@psu.edu"
+    },
+    "site": {
+      "name": "example0installpublishing",
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true,
+        "canonical": true,
+        "pathauto": true
+      },
+      "created": 1794854204,
+      "updated": 1794854334,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
+    },
+    "theme": {
+      "element": "clean-one",
+      "path": "@haxtheweb/clean-one/clean-one.js",
+      "name": "Clean One",
+      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-clean-one-thumb.jpg",
+      "description": "Start with a blank site using the Clean One",
+      "category": [
+        "Course"
+      ],
+      "hidden": false,
+      "priority": -2,
+      "terrible": false,
+      "supportedPalettes": [
+        "4",
+        "5"
+      ],
+      "variables": {
+        "icon": "icons:record-voice-over",
+        "hexCode": "#3f51b5",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7"
+      }
+    },
+    "node": {
+      "fields": {}
+    },
+    "platform": {
+      "audience": "expert",
+      "features": {},
+      "allowedBlocks": []
+    }
+  },
+  "items": [
+    {
+      "id": "item-course-syllabus",
+      "indent": 0,
+      "location": "pages/item-course-syllabus/index.html",
+      "slug": "start-here",
+      "order": 0,
+      "parent": null,
+      "title": "Start Here",
+      "description": "",
+      "metadata": {
+        "published": true,
+        "hideInMenu": false,
+        "tags": [
+          "syllabus",
+          "overview"
+        ],
+        "created": 1794854204,
+        "updated": 1794854204,
+        "files": []
+      }
+    },
+    {
+      "id": "item-lesson-1",
+      "indent": 0,
+      "location": "pages/item-lesson-1/index.html",
+      "slug": "lesson-1",
+      "order": 1,
+      "parent": null,
+      "title": "Lesson 1: Finding Your Way Around HAX",
+      "description": "",
+      "metadata": {
+        "published": true,
+        "hideInMenu": false,
+        "tags": [
+          "lesson",
+          "overview"
+        ],
+        "created": 1794854204,
+        "updated": 1794854204,
+        "files": []
+      }
+    },
+    {
+      "id": "item-lesson-1-content",
+      "indent": 1,
+      "location": "pages/item-lesson-1-content/index.html",
+      "slug": "lesson-1/editing-a-page",
+      "order": 1,
+      "parent": "item-lesson-1",
+      "title": "Editing a Page",
+      "description": "It took 10 years to win a national championship from a dream at the park. It's taken just under 10 years to go from an idea on a sticky note to a publishing revolution.Try itSelect Edit in the top bar",
+      "metadata": {
+        "published": true,
+        "hideInMenu": false,
+        "tags": [
+          "content",
+          "instruction"
+        ],
+        "created": 1794854204,
+        "updated": 1794854334,
+        "files": [
+          "d439a9d5-dde5-6c9a-e5bc-6c49b8a4aa82"
+        ],
+        "overridePathauto": false,
+        "linkTarget": "_self",
+        "locked": false,
+        "readtime": 1,
+        "videos": [],
+        "images": []
+      }
+    },
+    {
+      "id": "item-lesson-1-intro",
+      "indent": 1,
+      "location": "pages/item-lesson-1-intro/index.html",
+      "slug": "lesson-1-introduction",
+      "order": 2,
+      "parent": "item-lesson-1",
+      "title": "Reading a HAX Site",
+      "description": "",
+      "metadata": {
+        "published": true,
+        "hideInMenu": false,
+        "tags": [
+          "intro",
+          "context"
+        ],
+        "created": 1794854204,
+        "updated": 1794854204,
+        "files": []
+      }
+    },
+    {
+      "id": "item-lesson-1-conclusion",
+      "indent": 1,
+      "location": "pages/item-lesson-1-conclusion/index.html",
+      "slug": "lesson-1-conclusion",
+      "order": 4,
+      "parent": "item-lesson-1",
+      "title": "Check Your Understanding",
+      "description": "",
+      "metadata": {
+        "published": true,
+        "hideInMenu": false,
+        "tags": [
+          "conclusion",
+          "summary"
+        ],
+        "created": 1794854204,
+        "updated": 1794854204,
+        "files": []
+      }
+    },
+    {
+      "id": "item-abcd3ea3-5f7d-4cb6-92ac-51c6f7d37c35",
+      "indent": 0,
+      "location": "pages/item-abcd3ea3-5f7d-4cb6-92ac-51c6f7d37c35/index.html",
+      "slug": "about",
+      "order": 2,
+      "parent": null,
+      "title": "About",
+      "description": "",
+      "metadata": {
+        "created": 1794854204,
+        "updated": 1794854204,
+        "images": [],
+        "videos": []
+      }
+    }
+  ],
+  "location": "/app/75e33c8d8bea8bb7/_sites/example0installpublishing/index.html"
+}

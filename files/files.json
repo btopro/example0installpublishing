@@ -1,0 +1,22 @@
+{
+  "schema": "HAXCMS-FILE-SCHEMA-V1",
+  "site": "",
+  "generated": 1794854289,
+  "data": {
+    "path": "files",
+    "files": [
+      {
+        "uuid": "d439a9d5-dde5-6c9a-e5bc-6c49b8a4aa82",
+        "path": "files/headshot82067.90000000224.jpg",
+        "name": "headshot82067.90000000224.jpg",
+        "mimetype": "image/jpeg",
+        "size": 207681,
+        "dateCreated": 1794854289,
+        "fullUrl": "/app/75e33c8d8bea8bb7/_sites/example0installpublishing/files/headshot82067.90000000224.jpg?t=1794854289",
+        "url": "files/headshot82067.90000000224.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  }
+}

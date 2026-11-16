@@ -1,0 +1,19 @@
+id: item-abcd3ea3-5f7d-4cb6-92ac-51c6f7d37c35
+indent: 0
+location: pages/item-abcd3ea3-5f7d-4cb6-92ac-51c6f7d37c35/index.yaml
+slug: about
+order: 2
+parent: null
+title: About
+description: ''
+metadata:
+  created: 1794854204
+  updated: 1794854204
+  images: []
+  videos: []
+  files: []
+content: >-
+  <p><img src="https://avatars.githubusercontent.com/u/329735?v=4" alt="Bryan
+  Ollendyke" width="160" height="160" loading="lazy"></p>
+
+  <p>This site is by Bryan Ollendyke.</p>

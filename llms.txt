@@ -1,0 +1,31 @@
+# example0installpublishing
+
+> skeleton from-skeleton
+
+HAXcms is a file-based CMS: authored pages and metadata are stored as portable files, not locked into a database-only workflow.
+The canonical site structure is `site.json`, represented in JSON Outline Schema (`id`, `parent`, `order`, `slug`, `location`, and `metadata`).
+Use HAX CLI and ecosystem tooling to maintain human-authored content while keeping machine-readable outputs synchronized.
+Managed files (feeds, search indexes, manifests, and this `llms.txt`) are generated artifacts and should be rebuilt by tooling.
+
+## Core resources
+- [site.json](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/site.json): Canonical site manifest and navigation tree in JSON Outline Schema format.
+- [llms.txt](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/llms.txt): LLM-oriented guide to this site and its machine-readable resources.
+- [llms-full.txt](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/llms-full.txt): The whole site as one markdown document, in outline order.
+- [Whole site as HTML](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/x/api/v1/site/export/html): Every page in one HTML document.
+- [AGENTS.md](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/AGENTS.md): Instructions for AI agents working on this site's files.
+
+## Pages
+- [Start Here](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/pages/item-course-syllabus/index.md): Welcome to Getting Started with HAX This short course takes about 15 minutes.
+- [Lesson 1: Finding Your Way Around HAX](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/pages/item-lesson-1/index.md): Lesson 1 Overview HAX sites look like ordinary websites until you sign in.
+- [Editing a Page](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/pages/item-lesson-1-content/index.md): It took 10 years to win a national championship from a dream at the park.
+- [Reading a HAX Site](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/pages/item-lesson-1-intro/index.md): Every HAX site is a set of pages arranged in an outline. Pages can sit under other pages, the way this page sits under Lesson 1.
+- [Check Your Understanding](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/pages/item-lesson-1-conclusion/index.md): Two quick questions to make sure the big ideas stuck. They aren’t graded.
+- [About](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/pages/item-abcd3ea3-5f7d-4cb6-92ac-51c6f7d37c35/index.md): This site is by Bryan Ollendyke.
+
+## Optional
+- [Search index](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/lunrSearchIndex.json): Lunr corpus for quick full-text retrieval.
+- [RSS feed](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/rss.xml): Site updates in RSS format.
+- [Atom feed](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/atom.xml): Site updates in Atom format.
+- [Sitemap](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/sitemap.xml): URL-level discovery map for the published site.
+- [Agent skills](https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/.well-known/agent-skills/index.json): Agent Skills discovery index (agentskills.io v0.2.0) listing skills that teach an agent how to read, author, audit, and remix this site.
+- [HAX skill catalog](https://raw.githubusercontent.com/haxtheweb/praw/stable/skills/index.json): Every HAX agent skill, maintained in PRAW; fetch skills this site does not ship from here.

@@ -1,0 +1,32 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/",
+      "item": [
+        {
+          "href": "https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/x/api",
+          "rel": "service"
+        }
+      ],
+      "service-desc": [
+        {
+          "href": "https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/x/api/openapi.json?profile=public",
+          "type": "application/json",
+          "title": "Public profile: operations that work without logging in"
+        },
+        {
+          "href": "https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/x/api/openapi",
+          "type": "application/json"
+        },
+        {
+          "href": "https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/x/api/openapi.json",
+          "type": "application/json"
+        },
+        {
+          "href": "https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/x/api/openapi.yaml",
+          "type": "application/yaml"
+        }
+      ]
+    }
+  ]
+}

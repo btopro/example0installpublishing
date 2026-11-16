@@ -1,0 +1,22 @@
+{
+  "id": "item-lesson-1-intro",
+  "indent": 1,
+  "location": "pages/item-lesson-1-intro/index.json",
+  "slug": "lesson-1-introduction",
+  "order": 2,
+  "parent": "item-lesson-1",
+  "title": "Reading a HAX Site",
+  "description": "",
+  "metadata": {
+    "published": true,
+    "hideInMenu": false,
+    "tags": [
+      "intro",
+      "context"
+    ],
+    "created": 1794854204,
+    "updated": 1794854204,
+    "files": []
+  },
+  "content": "<p>Every HAX site is a set of pages arranged in an outline. Pages can sit under other pages, the way this page sits under Lesson 1.</p><h3 data-style-guide=\"sectionDivider\" data-design-treatment=\"horz-md\" data-primary=\"2\" data-padding=\"xs\" data-instructional-action=\"observe\">Look around</h3><ul><li><strong>Site menu:</strong> lists every page. Pages under another page are nested below it.</li><li><strong>Page title:</strong> the large heading at the top tells you where you are.</li><li><strong>Links in the text:</strong> take you to other pages in the site, like the ones in the Lesson 1 overview.</li></ul><p data-style-guide=\"calloutInfo\" data-accent=\"9\" data-border-radius=\"md\" data-padding=\"s\" data-box-shadow=\"sm\"><strong>Did you know?</strong> A HAX site is plain files: one <code>site.json</code> outline plus a folder of pages. You can copy it, publish it anywhere, and it keeps working.</p>"
+}

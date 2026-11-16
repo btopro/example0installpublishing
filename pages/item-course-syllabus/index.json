@@ -1,0 +1,22 @@
+{
+  "id": "item-course-syllabus",
+  "indent": 0,
+  "location": "pages/item-course-syllabus/index.json",
+  "slug": "start-here",
+  "order": 0,
+  "parent": null,
+  "title": "Start Here",
+  "description": "",
+  "metadata": {
+    "published": true,
+    "hideInMenu": false,
+    "tags": [
+      "syllabus",
+      "overview"
+    ],
+    "created": 1794854204,
+    "updated": 1794854204,
+    "files": []
+  },
+  "content": "<h2 data-style-guide=\"headline\" data-design-treatment=\"vert\" data-primary=\"8\" data-padding=\"xs\" data-border-radius=\"xs\">Welcome to Getting Started with HAX</h2><p>This short course takes about 15 minutes. By the end you’ll know how to move around a HAX site, edit a page, and add your own content.</p><h3 data-style-guide=\"sectionDivider\" data-design-treatment=\"horz-md\" data-primary=\"2\" data-padding=\"xs\" data-instructional-action=\"objectives\">What you’ll be able to do</h3><ul><li>Find any page using the site menu</li><li>Turn on editing and change text on a page</li><li>Add a block, such as an image or a video</li><li>Save your work</li></ul><h3 data-style-guide=\"sectionDivider\" data-design-treatment=\"horz-md\" data-primary=\"2\" data-padding=\"xs\">How this course works</h3><ol><li><a href=\"lesson-1\">Lesson 1</a> introduces the editor.</li><li>Each page builds on the one before, so go in order.</li><li>Finish with a short self-check. It isn’t graded.</li></ol><stop-note title=\"Tip\" status=\"info\"><p slot=\"message\">You can’t break anything here. Try every button you see.</p></stop-note>"
+}

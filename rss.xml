@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>example0installpublishing</title>
+    <link>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/</link>
+    <description>skeleton from-skeleton</description>
+    <copyright>Copyright (C) 2026 https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing</copyright>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2026 18:36:44 GMT</lastBuildDate>
+    <generator>HAXcms NodeJS</generator>
+    <atom:link href="https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Start Here</title>
+      <link>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/start-here</link>
+      <description>Welcome to Getting Started with HAX This short course takes about 15 minutes. By the end you’ll know how to move around a HAX site, edit a page, and add your own content. What you’ll be able to do Find any page using the site menu Turn on editing and change text on a page Add a block, such as an image or a video Save your work How this course works Lesson 1 introduces the editor. Each page builds on the one before, so go in order. Finish with a short self-check. It isn’t graded. You can’t bre...</description>
+      <category>syllabus</category>
+      <category>overview</category>
+      <guid>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/start-here</guid>
+      <pubDate>Mon, 16 Nov 2026 18:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lesson 1: Finding Your Way Around HAX</title>
+      <link>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/lesson-1</link>
+      <description>Lesson 1 Overview HAX sites look like ordinary websites until you sign in. Then a bar at the top gives you tools to edit pages, add pages, and change the whole site. This lesson walks through those tools. In this lesson Reading a HAX Site Editing a Page Check Your Understanding</description>
+      <category>lesson</category>
+      <category>overview</category>
+      <guid>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/lesson-1</guid>
+      <pubDate>Mon, 16 Nov 2026 18:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reading a HAX Site</title>
+      <link>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/lesson-1-introduction</link>
+      <description>Every HAX site is a set of pages arranged in an outline. Pages can sit under other pages, the way this page sits under Lesson 1. Look around Site menu: lists every page. Pages under another page are nested below it. Page title: the large heading at the top tells you where you are. Links in the text: take you to other pages in the site, like the ones in the Lesson 1 overview. Did you know? A HAX site is plain files: one site.json outline plus a folder of pages. You can copy it, publish it anyw...</description>
+      <category>intro</category>
+      <category>context</category>
+      <guid>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/lesson-1-introduction</guid>
+      <pubDate>Mon, 16 Nov 2026 18:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Editing a Page</title>
+      <link>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/lesson-1/editing-a-page</link>
+      <description>It took 10 years to win a national championship from a dream at the park. It&apos;s taken just under 10 years to go from an idea on a sticky note to a publishing revolution. Try it Select Edit in the top bar. The page becomes editable. Click any paragraph and type. Text works like a word processor. Click a block, then Configure to change its settings, such as an image’s size or a heading’s style. Open Blocks to add something new: images, videos, tables, quizzes and more. You can also type / on an ...</description>
+      <category>content</category>
+      <category>instruction</category>
+      <guid>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/lesson-1/editing-a-page</guid>
+      <pubDate>Mon, 16 Nov 2026 18:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Check Your Understanding</title>
+      <link>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/lesson-1-conclusion</link>
+      <description>Two quick questions to make sure the big ideas stuck. They aren’t graded. You changed three paragraphs and added a table. What do you do before going to another page? Select Save in the top bar. Unsaved edits are lost if you leave and choose to discard them. Reflect What’s one page you’d like to build first? Add it now with Add page , then edit it using what you just learned. You finished the orientation. You’re ready to build your own course.</description>
+      <category>conclusion</category>
+      <category>summary</category>
+      <guid>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/lesson-1-conclusion</guid>
+      <pubDate>Mon, 16 Nov 2026 18:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/about</link>
+      <description>This site is by Bryan Ollendyke.</description>
+      <guid>https://browser.hax.cloud/app/75e33c8d8bea8bb7/_sites/example0installpublishing/about</guid>
+      <pubDate>Mon, 16 Nov 2026 18:36:44 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
